@@ -16,7 +16,7 @@
     "http-errors": "~1.6.2",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "tar": "^5.0.10"
